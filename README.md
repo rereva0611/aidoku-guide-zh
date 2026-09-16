@@ -53,17 +53,19 @@ Aidoku Community 维护了一个可供 Aidoku 使用的源列表：
 
 ### 3. 本项目提供的源
 
-本项目目前仅提供 **拷貝漫畫 Plus** 一个源。
+本项目目前还提供 **拷贝漫画** 源。
 
 它是在 Aidoku 原版拷贝漫画源基础上独立维护的增强版本，提供：
 
-- CopyManga 账号登录；
-- 查看账户收藏的漫画；
-- 在漫画详情页加入或取消收藏；
-- 支持地区、状态和排序筛选；
-- 在漫画详情页直接打开评论区（使用 Aidoku 内置浏览器）。
+- 搜索漫画和使用标签筛选；
+- 浏览网站的“全新上架”内容；
+- 登录后查看“我的收藏”；
+- 在详情页打开评论区；
+- 在详情页收藏或取消收藏漫画；
+- 章节按上传时间从新到旧排列；
+- 支持图片画质和格式设置。
 
-请前往 [aidoku-copymanga-plus](https://github.com/rereva0611/aidoku-copymanga-plus) 查看完整说明，并在 [Releases](https://github.com/rereva0611/aidoku-copymanga-plus/releases/latest) 下载最新的 `package.aix`。
+请前往 [Aidoku-zh.copymanga-v20](https://github.com/rereva0611/Aidoku-zh.copymanga-v20) 查看完整说明，并在 [Releases](https://github.com/rereva0611/Aidoku-zh.copymanga-v20/releases/latest) 下载最新的 `package.aix`。
 
 下载后按上文「导入 `.aix` 源包」操作即可。
 
